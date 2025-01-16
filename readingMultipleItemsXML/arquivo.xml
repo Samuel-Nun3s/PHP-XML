@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sales>
+    <title>Relátorio de Vendas</title>
+    <report>Venda mensal</report>
+    <sale>
+        <id>1</id>
+        <name>Samuel</name>
+        <email>samuel@gmail.com</email>
+        <phone>(00) 0 0000-0000</phone>
+        <products>
+            <product>
+                <id>52</id>
+                <name>Product 52</name>
+                <amount>2</amount>
+            </product>
+            <product>
+                <id>7</id>
+                <name>Product 7</name>
+                <amount>5</amount>
+            </product>
+        </products>
+    </sale>
+    <sale>
+        <id>2</id>
+        <name>Kelly</name>
+        <email>kelly@gmail.com</email>
+        <phone>(11) 1 1111-1111</phone>
+        <products>
+            <product>
+                <id>43</id>
+                <name>Product 43</name>
+                <amount>3</amount>
+            </product>
+            <product>
+                <id>25</id>
+                <name>Product 25</name>
+                <amount>4</amount>
+            </product>
+        </products>
+    </sale>
+</sales>
